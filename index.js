@@ -16,3 +16,4 @@ currentLine(katzDeliLine);
 
 nowServing(katzDeliLine);
 
+currentLine(katzDeliLine);
