@@ -1,4 +1,1 @@
-function takeANumber(katzDeliLine,newPersonName){
-  
-  return positionInLine
-}
+katz Deli = 
