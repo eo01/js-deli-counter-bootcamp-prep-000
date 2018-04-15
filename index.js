@@ -8,4 +8,5 @@ currentLine(katzDeliLine);
 
 nowServing(katzDeliLine);
 
-currentLine
+currentLine(katzDeliLine);
+
