@@ -7,3 +7,5 @@ takeANumber(katzDeliLine, "Kent");
 currentLine(katzDeliLine);
 
 nowServing(katzDeliLine);
+
+currentLine
