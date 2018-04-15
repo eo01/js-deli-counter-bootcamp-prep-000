@@ -10,4 +10,5 @@ nowServing(katzDeliLine);
 
 currentLine(katzDeliLine);
 
-takeANumber(katzDeliLine, "Matz")
+takeANumber(katzDeliLine, "Matz");
+
