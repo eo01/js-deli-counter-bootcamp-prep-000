@@ -1,5 +1,5 @@
 var katzDeliLine = [];
 
-takeANumber(katzDeliLine, "Ada")
-takeANumber(katzDeliLine, "Grace")
-takeANumber(katzDeliLine, "Kent")
+takeANumber(katzDeliLine, "Ada");
+takeANumber(katzDeliLine, "Grace");
+takeANumber(katzDeliLine, "Kent");
