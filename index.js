@@ -12,3 +12,4 @@ currentLine(katzDeliLine);
 
 takeANumber(katzDeliLine, "Matz");
 
+currentLine(katzDeliLine);
