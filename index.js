@@ -13,3 +13,8 @@ function nowServing(deliLine){
   name = deliLine.shift()
   return "Currently serving "+ name +"."
 }
+funtion currentLine(katzDeliLine){
+  if(katzDeliLine.length == 0){
+    return "The line is currently empty."
+  }
+}
